@@ -22,7 +22,7 @@ body {
   font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 main { max-width: 640px; margin: 0 auto; padding: 48px 16px 64px; }
-.icon { display: block; margin: 0 0 16px; border-radius: 14px; image-rendering: pixelated; }
+.icon { display: block; margin: 0 0 16px; border-radius: 50%; image-rendering: pixelated; }
 h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 4px; }
 .date { color: var(--muted); margin: 0 0 32px; }
 .summary {
